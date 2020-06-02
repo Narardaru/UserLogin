@@ -1,0 +1,16 @@
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\bin\Debug\WpfExample.exe.config
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\bin\Debug\WpfExample.exe
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\bin\Debug\WpfExample.pdb
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\WpfExample.csprojAssemblyReference.cache
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\MainWindowView.g.cs
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\App.g.cs
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\WpfExample_MarkupCompile.lref
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\MainWindowView.baml
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\WpfExample.g.resources
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.cache
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\WpfExample.csproj.CoreCompileInputs.cache
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\WpfExample.exe
+C:\Users\Stivan\Desktop\ПС\UserLogin\WpfExample\obj\Debug\WpfExample.pdb
