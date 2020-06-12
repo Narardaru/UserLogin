@@ -129,6 +129,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="NameException.cs" />
     <Compile Include="Login.xaml.cs">
       <DependentUpon>Login.xaml</DependentUpon>
     </Compile>
@@ -140,6 +141,7 @@
     <Compile Include="StudentData.cs" />
     <Compile Include="StudentInfoContext.cs" />
     <Compile Include="StudentRepository.cs" />
+    <Compile Include="StudentsList.cs" />
     <Compile Include="StudentValidation.cs" />
     <Page Include="Login.xaml">
       <SubType>Designer</SubType>
